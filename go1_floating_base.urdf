@@ -134,7 +134,7 @@
   </joint>
   <link name="trunk">
     <visual>
-      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <origin rpy="0 0 1.5707963267948966" xyz="0 0 0"/>
       <geometry>
         <mesh filename="package://meshes/go1_floating_base/trunk.stl" scale="1 1 1"/>
       </geometry>
