@@ -1,0 +1,1 @@
+smimport("go1_floating_base.urdf")
